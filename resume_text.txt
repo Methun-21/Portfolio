@@ -1,0 +1,62 @@
+Methunraj A
+ +91-7708847437
+Bachelor of Technology in Computer Science and Engineering
+# methunraja7393@gmail.com
+SRM Institute of Science and Technology, Tiruchirappalli
+ï LinkedIn | § GitHub
+Education
+• Bachelor of Technology – Computer Science and Engineering (Honors:
+Quantum Computing)
+2023 – 2027
+SRM Institute of Science and Technology, Tiruchirappalli
+CGPA: 9.50/10
+Technical Skills
+Programming & Databases: Python, C/C++ (Object-Oriented Programming), SQL
+Data Science & ML: Pandas, NumPy, Scikit-learn, PyTorch, XGBoost, Statistical Modeling
+NLP & Foundation Models: spaCy, Sentence-BERT, NER, Image Processing, Object Recognition
+Data Visualization : Matplotlib, Seaborn, Plotly, Dashboard Development
+Tools & Platforms: Git, Jupyter, Snowflake, FastAPI, REST APIs
+Professional Experience
+• Data Science Intern – AI & NLP
+Aug 2025 – Oct 2025
+Infosys Springboard
+Remote
+– Engineered an end-to-end NLP pipeline for automated skill extraction, utilizing spaCy for Named Entity Recog-
+nition (NER) and custom Regex to process unstructured PDF and DOCX documents
+– Implemented Transformer-based Foundation Models (Sentence-BERT) to generate vector embeddings, computing
+a Cosine Similarity Matrix in NumPy to dynamically score semantic resume-job matches
+– Developed and deployed a full-stack interactive web application using Streamlit, integrating the machine learning
+backend with Plotly for dynamic, real-time data visualization of candidate skill gaps
+• Research Intern – Computer-Aided Manufacturing
+Jun 2025 – Jul 2025
+Defence Research & Development Organisation (DRDO), CVRDE, Avadi
+Onsite
+– Developed optimized CNC toolpath algorithms using quintic Bézier curves with Python, performing control point
+extraction and Bernstein polynomial analysis for precision manufacturing
+– Created data visualization dashboards for process monitoring and analysis using Matplotlib and NumPy
+Projects
+•Real-Time Air Quality Prediction System
+Python, Scikit-learn, XGBoost, Flask, REST APIs
+– Engineered a high-performance Stacking Ensemble model (Random Forest, XGBoost, LightGBM, CatBoost with
+a Ridge Meta-Learner) to predict hyper-local PM2.5 levels using advanced spatiotemporal feature engineering
+– Developed a Flask REST API that dynamically orchestrates multiple live external services (WAQI, OpenWeath-
+erMap, OpenRouteService) to calculate and return the "Fastest and Cleanest" geographical routing paths
+– Implemented production-ready backend architecture utilizing Flask-Limiter for network rate limiting and efficient
+in-memory data structures (deque) to cache time-series station history
+•The Last Spark– iOS Arcade Game (Apple Swift Student Challenge Winner)
+SwiftUI, AVFoundation
+– Engineered a globally recognized iOS game demonstrating advanced SwiftUI architecture; built a custom game
+loop and dynamic difficulty engine optimized for high frame rates.
+– Integrated Apple frameworks (CoreHaptics, AVFoundation) to create an immersive user experience, achieving
+seamless animations and fluid state management.
+•Lost and Found Management System
+React, Flask, MySQL, Python, Scikit-learn
+– Built full-stack web application using OpenAI’s CLIP (Foundation Model) for advanced semantic text-to-image
+matching; implemented SQL database design with complex queries
+– Developed Flask REST API backend with authentication, data validation, and automated image processing
+pipeline
+Awards & Certifications
+• Apple Swift Student Challenge 2026 Winner – Selected among thousands globally for developing interactive
+iOS app demonstrating innovative use of SwiftUI and Apple frameworks
+• SnowPro Associate: Platform Certification – Snowflake
+• NPTEL Database Management System – SQL, NoSQL, and database design
